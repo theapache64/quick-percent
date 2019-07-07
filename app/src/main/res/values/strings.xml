@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">QuickPercent - Example</string>
     <string name="action_settings">Settings</string>
+    <string name="label_percent_of">Percent Of</string>
+    <string name="label_what_is">What is</string>
+    <string name="label_no_usual_demo">No visual demo available. Please check the code and logcat :)</string>
 </resources>
