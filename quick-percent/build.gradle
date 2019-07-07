@@ -14,7 +14,7 @@ ext {
     siteUrl = 'https://github.com/theapache64/quick-percent'
     gitUrl = 'https://github.com/theapache64/quick-percent.git'
 
-    libraryVersion = '0.0.1-alpha01'
+    libraryVersion = '0.0.1-alpha02'
 
     developerId = 'theapache64'
     developerName = 'theapache64'
@@ -35,7 +35,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 101
-        versionName "0.0.1-alpha01"
+        versionName "0.0.1-alpha02"
 
         consumerProguardFiles 'consumer-rules.pro'
     }

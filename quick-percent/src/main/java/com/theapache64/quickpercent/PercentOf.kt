@@ -1,4 +1,4 @@
-package com.thinkpalm.fds.banddemo.utils.math
+package com.theapache64.quickpercent
 
 
 /**

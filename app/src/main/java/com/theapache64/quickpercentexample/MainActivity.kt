@@ -3,8 +3,8 @@ package com.theapache64.quickpercentexample
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.thinkpalm.fds.banddemo.utils.math.isWhatPercentOf
-import com.thinkpalm.fds.banddemo.utils.math.percentOf
+import com.theapache64.quickpercent.isWhatPercentOf
+import com.theapache64.quickpercent.percentOf
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
