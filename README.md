@@ -4,7 +4,7 @@ A simple kotlin extension library to play with percentage calculation
 ## Installation
 
 ```groovy
-implementation 'com.theapache64.quick-percent:quick-percent:0.0.1-alpha02'
+implementation 'com.theapache64.quick-percent:quick-percent:1.0.0-alpha01'
 ```
 
 ## Usage

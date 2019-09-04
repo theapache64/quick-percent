@@ -5,7 +5,6 @@ import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import com.theapache64.quickpercent.isWhatPercentOf
 import com.theapache64.quickpercent.percentOf
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -16,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        setSupportActionBar(toolbar)
+        setSupportActionBar(findViewById(R.id.toolbar))
 
         Log.d(TAG, "What is 20% of 1000? -> ${20.percentOf(1000)} ")
         Log.d(TAG, "200 is what percent of 1000? -> ${200.isWhatPercentOf(1000)}")
