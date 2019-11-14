@@ -20,3 +20,5 @@ fun Number.percentOf(of: Long): Float {
 fun Number.percentOf(of: Double): Float {
     return percentOf(of.toFloat())
 }
+
+
